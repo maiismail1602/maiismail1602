@@ -30,7 +30,7 @@ I'm a web developer proficient in Python, JavaScript, HTML, CSS, .NET, API devel
 ## 🌐 Web Developer & 🚀 Data Engineer
 
 ---
-### **General Teccnical Skills:**  
+### **General Technical Skills:**  
 - High-level Object Oriented Programming (OOP): Python, Java, C++, and C#
 - Linux & Command Line (Bash Scripting)  
 - Algorithms & Data Structures  

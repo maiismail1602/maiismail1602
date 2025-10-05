@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 -->
 
-A web developer proficient in Python, JavaScript, HTML, CSS, .NET, API development, RESTful design, C#, PostgreSQL, MySQL, and PHP
+I'm a web developer proficient in Python, JavaScript, HTML, CSS, .NET, API development, RESTful design, C#, PostgreSQL, MySQL, and PHP
 
 - 🌱 I’m currently learning WordPress (customization and plugin/theme development) and CI/CD
 
